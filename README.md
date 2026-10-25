@@ -43,6 +43,16 @@ My work includes NLP research, shared-task competitions, deep learning, and buil
 - **Links:** [Paper](https://aclanthology.org/2026.dravidianlangtech-1.30/) · [DOI](https://doi.org/10.18653/v1/2026.dravidianlangtech-1.30) · [Code](https://github.com/sumaiyaa110/Hope-Speech-Detection)
 
 
+## AI/ML Competitions
+
+### [Bengali LLM Hallucination Detection Challenge — The Villagers](https://github.com/sumaiyaa110/IUT--Datathon--Bengali-LLM-Hallucination-Detection-Challenge)
+
+- **Competition:** Datathon 2.0 — Bengali LLM Hallucination Detection Challenge
+- **Team:** The Villagers
+- **Approach:** Ensemble learning and stacking combining BanglaBERT, mDeBERTa-v3, TF-IDF, and Qwen2.5-7B-Instruct.
+- **Tech stack:** Python, PyTorch, scikit-learn, Hugging Face Transformers.
+- **Code:** [GitHub Repository](https://github.com/sumaiyaa110/IUT--Datathon--Bengali-LLM-Hallucination-Detection-Challenge)
+
 ## Featured Projects
 
 ### [Abaho — Weather App](https://github.com/Mif-taa/Abaho_WeatherApp)
