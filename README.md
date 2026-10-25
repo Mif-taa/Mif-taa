@@ -34,6 +34,14 @@ My work includes NLP research, shared-task competitions, deep learning, and buil
 - **Achievement:** 4th place in the shared task | Macro F1: **0.8086**
 - **Links:** [Paper](https://aclanthology.org/2026.dravidianlangtech-1.29/) · [DOI](https://doi.org/10.18653/v1/2026.dravidianlangtech-1.29) · [Code](https://github.com/Mif-taa/Abusive-Tamil-Text)
 
+### [CUET_SYNTHETICA @ DravidianLangTech 2026](https://aclanthology.org/2026.dravidianlangtech-1.30/)
+**Multilingual Transformer Based Hope Speech Detection for Coarse and Fine-Grained Classification in Tulu**
+
+- **Authors:** Sumaiya Zaman, Miftahul Jannat Rishta, Shiti Chowdhury, Hasan Murad
+- **Method:** XLM-RoBERTa, MuRIL, and mBERT with soft-voting for coarse-grained classification; XLM-RoBERTa for fine-grained classification.
+- **Achievement:** 1st place in both shared-task subtasks | Macro F1: **0.58** (coarse-grained), **0.42** (fine-grained).
+- **Links:** [Paper](https://aclanthology.org/2026.dravidianlangtech-1.30/) · [DOI](https://doi.org/10.18653/v1/2026.dravidianlangtech-1.30) · [Code](https://github.com/sumaiyaa110/Hope-Speech-Detection)
+
 
 ## Featured Projects
 
