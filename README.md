@@ -15,25 +15,6 @@ My work includes NLP research, shared-task competitions, deep learning, and buil
 - Multimodal AI and Vision-Language Models
 - AI for Healthcare
 
-## Research & Achievements
-
-- Co-authored research papers in NLP shared tasks and workshops.
-- 1st place in a Hope Speech Detection shared task.
-- 3rd place in Vaccine-Critical Meme Detection.
-- 4th place in Abusive Tamil Text Detection.
-- Contributed to multimodal learning and medical imaging research.
-
-## Selected Projects
-
-### Cortex — Retrieval-Augmented Generation
-An open-source RAG engine for crawling web content, retrieving relevant information, and generating answers with citations.
-
-### Multimodal Meme Classification
-A vision-language approach combining text and image representations for meme classification.
-
-### Medical Image Analysis
-Deep learning research involving retinal vessel segmentation and medical image analysis.
-
 
 ## Research & Publications
 
