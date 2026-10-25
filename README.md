@@ -53,6 +53,17 @@ My work includes NLP research, shared-task competitions, deep learning, and buil
 - **Tech stack:** Python, PyTorch, scikit-learn, Hugging Face Transformers.
 - **Code:** [GitHub Repository](https://github.com/sumaiyaa110/IUT--Datathon--Bengali-LLM-Hallucination-Detection-Challenge)
 
+## Experience & Team Projects
+
+### [Cortex — Open-Source RAG Engine](https://github.com/BdREN-Innovation/Cortex)
+
+Contributed to an open-source Retrieval-Augmented Generation (RAG) engine during my industrial attachment at BdREN.
+
+- **Contribution:** Developed a web crawler and HTML-to-clean-text extraction pipeline, collecting clean documents from BdREN websites.
+- **Focus:** Web crawling, data extraction, and document preprocessing for RAG.
+- **Organization:** BdREN Innovation
+- **Code:** [GitHub Repository](https://github.com/BdREN-Innovation/Cortex)
+
 ## Featured Projects
 
 ### [Abaho — Weather App](https://github.com/Mif-taa/Abaho_WeatherApp)
