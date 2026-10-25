@@ -37,18 +37,26 @@ Deep learning research involving retinal vessel segmentation and medical image a
 
 ## Featured Projects
 
-### [Folia — Personal Budget Tracker](https://github.com/Mif-taa/Folia-Personal-Budget-Tracker)
-A personal finance application for tracking budgets and managing expenses.
-
-### [Docket — To-Do App](https://github.com/Mif-taa/Docket-to-do-app)
-A task management application for organizing daily activities and keeping track of tasks.
-
 ### [Abaho — Weather App](https://github.com/Mif-taa/Abaho_WeatherApp)
 A weather application for checking weather conditions.
+
+### [Bangla Tooltip](https://github.com/Mif-taa/bangla-tooltip)
+A project focused on Bangla-language tooltip functionality.
 
 ### [Blog Management System](https://github.com/Mif-taa/Blog_Management_System)
 A web application for managing blog content and organizing posts.
 
+### [CarrUs — Car Rental System](https://github.com/Mif-taa/CarrUs_A_Car_Rental_System)
+A car rental web application for managing rental-related operations.
+
+### [Credit Card Fraud Detection](https://github.com/Mif-taa/Credit-Card-Fraud-Detection)
+A machine learning project focused on detecting potentially fraudulent credit card transactions.
+
+### [Docket — To-Do App](https://github.com/Mif-taa/Docket-to-do-app)
+A task management application for organizing daily activities and keeping track of tasks.
+
+### [Folia — Personal Budget Tracker](https://github.com/Mif-taa/Folia-Personal-Budget-Tracker)
+A personal finance application for tracking budgets and managing expenses.
 
 ## Technical Skills
 
