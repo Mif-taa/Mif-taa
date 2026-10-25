@@ -34,6 +34,22 @@ A vision-language approach combining text and image representations for meme cla
 ### Medical Image Analysis
 Deep learning research involving retinal vessel segmentation and medical image analysis.
 
+
+## Featured Projects
+
+### [Folia — Personal Budget Tracker](https://github.com/Mif-taa/Folia-Personal-Budget-Tracker)
+A personal finance application for tracking budgets and managing expenses.
+
+### [Docket — To-Do App](https://github.com/Mif-taa/Docket-to-do-app)
+A task management application for organizing daily activities and keeping track of tasks.
+
+### [Abaho — Weather App](https://github.com/Mif-taa/Abaho_WeatherApp)
+A weather application for checking weather conditions.
+
+### [Blog Management System](https://github.com/Mif-taa/Blog_Management_System)
+A web application for managing blog content and organizing posts.
+
+
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, TypeScript, PHP, SQL
@@ -48,3 +64,5 @@ Deep learning research involving retinal vessel segmentation and medical image a
 - Google Scholar: https://scholar.google.com/citations?user=Tim6RI0AAAAJ&hl=en
 - ResearchGate: https://www.researchgate.net/profile/Miftahul-Rishta?ev=hdr_xprf
 - Email: miftahuljannatrishta@gmail.com
+
+[View All My Repositories](https://github.com/Mif-taa?tab=repositories)
