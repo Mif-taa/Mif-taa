@@ -58,6 +58,12 @@ A task management application for organizing daily activities and keeping track 
 ### [Folia — Personal Budget Tracker](https://github.com/Mif-taa/Folia-Personal-Budget-Tracker)
 A personal finance application for tracking budgets and managing expenses.
 
+### [OfflineOJ — Offline Online Judge](https://github.com/prism-rkive/OfflineOJ)
+A programming practice platform designed to support coding and problem-solving in an offline environment.
+
+### [Team Echo — Anonymous Campus Feedback System](https://github.com/maha-shweta/Team-Echo)
+A campus feedback platform for collecting anonymous feedback and analyzing sentiment to identify trends.
+
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, TypeScript, PHP, SQL
