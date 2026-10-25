@@ -44,7 +44,7 @@ Deep learning research involving retinal vessel segmentation and medical image a
 
 ## Connect With Me
 
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/miftahul-jannat-rishta19/)
-- Google Scholar: [YOUR_SCHOLAR_URL](https://scholar.google.com/citations?user=Tim6RI0AAAAJ&hl=en)
-- ResearchGate: [YOUR_RESEARCHGATE_URL](https://www.researchgate.net/profile/Miftahul-Rishta?ev=hdr_xprf)
+- LinkedIn: https://www.linkedin.com/in/miftahul-jannat-rishta19/
+- Google Scholar: https://scholar.google.com/citations?user=Tim6RI0AAAAJ&hl=en
+- ResearchGate: https://www.researchgate.net/profile/Miftahul-Rishta?ev=hdr_xprf
 - Email: miftahuljannatrishta@gmail.com
