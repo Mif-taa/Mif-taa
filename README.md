@@ -35,6 +35,25 @@ A vision-language approach combining text and image representations for meme cla
 Deep learning research involving retinal vessel segmentation and medical image analysis.
 
 
+## Research & Publications
+
+### [CUET_SYNTHETICA @ EEUCA 2026](https://aclanthology.org/2026.eeuca-1.14/)
+**Gated Cross-Modal Attention with Domain-Adapted Text Encoding for Vaccine-Critical Meme Detection**
+
+- **Authors:** Sumaiya Zaman, Miftahul Jannat Rishta, Shiti Chowdhury
+- **Method:** Twitter-RoBERTa + CLIP ViT-L/14 with gated cross-modal attention.
+- **Achievement:** 3rd place in the shared task | Macro F1: **0.8357**
+- **Links:** [Paper](https://aclanthology.org/2026.eeuca-1.14/) · [DOI](https://doi.org/10.18653/v1/2026.eeuca-1.14) · [Code](https://github.com/Mif-taa/VaxMemeStance)
+
+### [CUET_SYNTHETICA @ DravidianLangTech 2026](https://aclanthology.org/2026.dravidianlangtech-1.29/)
+**Multi Architecture Transformer Ensemble for Detecting Abusive Tamil Text Targeting Women**
+
+- **Authors:** Miftahul Jannat Rishta, Sumaiya Zaman, Shiti Chowdhury, Hasan Murad
+- **Method:** Heterogeneous ensemble of 12 MuRIL, IndicBERT v2, and XLM-RoBERTa-Large classifiers using soft-voting.
+- **Achievement:** 4th place in the shared task | Macro F1: **0.8086**
+- **Links:** [Paper](https://aclanthology.org/2026.dravidianlangtech-1.29/) · [DOI](https://doi.org/10.18653/v1/2026.dravidianlangtech-1.29) · [Code](https://github.com/Mif-taa/Abusive-Tamil-Text)
+
+
 ## Featured Projects
 
 ### [Abaho — Weather App](https://github.com/Mif-taa/Abaho_WeatherApp)
