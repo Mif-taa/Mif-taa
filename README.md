@@ -36,6 +36,15 @@ My work includes NLP research, shared-task competitions, deep learning, and buil
 - **Achievement:** 5th place in Subtask B1 | Blind Test Macro F1: **0.860**
 - **Links:** [Paper](https://aclanthology.org/2026.arabicnlp-sharedtasks.41.pdf) · [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.41/) · [Code](https://github.com/Mif-taa/arguard-b1)
 
+### [Nile Nexus @ ImageEval 2026 Shared Tasks](https://aclanthology.org/2026.arabicnlp-sharedtasks.87/)
+
+**Single-Choice Reformulation and Confidence-Calibrated Refinement for Culturally Grounded Hallucination Detection**
+
+- **Authors:** Sumaiya Zaman, Miftahul Jannat Rishta
+- **Method:** Qwen2.5-VL-7B-Instruct with 4-bit quantization, single-choice reformulation, and confidence-gated refinement using seven paraphrased prompts and majority voting.
+- **Achievement:** 6th place in the English Track | Blind Test Accuracy: **0.942**
+- **Links:** [Paper](https://aclanthology.org/2026.arabicnlp-sharedtasks.87.pdf) · [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.87/) · [Code](https://github.com/sumaiyaa110/-ImageEval-2026-Ayn-VQA-Task-1b)
+
 
 ### [CUET_SYNTHETICA @ EEUCA 2026](https://aclanthology.org/2026.eeuca-1.14/)
 **Gated Cross-Modal Attention with Domain-Adapted Text Encoding for Vaccine-Critical Meme Detection**
