@@ -17,6 +17,14 @@ My work includes NLP research, shared-task competitions, deep learning, and buil
 
 
 ## Research & Publications
+## [Nile Nexus @ BAREC Shared Task 2026](https://aclanthology.org/2026.arabicnlp-sharedtasks.20.pdf)
+
+**Enhancing Fine-Grained Arabic Readability Assessment through Ordinal-Aware Transformer Ensembling and Decision Calibration**
+
+- **Authors:** Sumaiya Zaman, Miftahul Jannat Rishta
+- **Method:** Ensemble of MARBERT, CAMeLBERT MSA, AraELECTRA, and AraBERTv2 using ordinal-aware loss functions and validation-based decision calibration.
+- **Achievement:** 3rd place in the Strict Track | Blind Test QWK: **0.848**
+- **Links:** [Paper](https://aclanthology.org/2026.arabicnlp-sharedtasks.20.pdf) · [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.20/)
 
 ### [CUET_SYNTHETICA @ EEUCA 2026](https://aclanthology.org/2026.eeuca-1.14/)
 **Gated Cross-Modal Attention with Domain-Adapted Text Encoding for Vaccine-Critical Meme Detection**
