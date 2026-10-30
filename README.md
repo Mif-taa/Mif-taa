@@ -26,6 +26,17 @@ My work includes NLP research, shared-task competitions, deep learning, and buil
 - **Achievement:** 3rd place in the Strict Track | Blind Test QWK: **0.848**
 - **Links:** [Paper](https://aclanthology.org/2026.arabicnlp-sharedtasks.20.pdf) · [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.20/)· [Code](https://github.com/sumaiyaa110/BAREC-Sentence-level-Readability-Assessment---Strict-Track)
 
+
+### [Nile Nexus @ ArGuard Shared Tasks 2026](https://aclanthology.org/2026.arabicnlp-sharedtasks.41/)
+
+**Leakage-Controlled MARBERTv2–SVM Ensemble for Arabic Harmful-Prompt Classification**
+
+- **Authors:** Miftahul Jannat Rishta, Sumaiya Zaman
+- **Method:** MARBERTv2 and TF-IDF character n-gram SVM combined through a Logistic Regression stacking ensemble, supported by leakage-controlled evaluation and five rounds of error-driven data augmentation.
+- **Achievement:** 5th place in Subtask B1 | Blind Test Macro F1: **0.860**
+- **Links:** [Paper](https://aclanthology.org/2026.arabicnlp-sharedtasks.41.pdf) · [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.41/) · [Code](https://github.com/Mif-taa/arguard-b1)
+
+
 ### [CUET_SYNTHETICA @ EEUCA 2026](https://aclanthology.org/2026.eeuca-1.14/)
 **Gated Cross-Modal Attention with Domain-Adapted Text Encoding for Vaccine-Critical Meme Detection**
 
